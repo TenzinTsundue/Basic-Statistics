@@ -17,3 +17,7 @@
 15. Information Value
 16.Woe
 17. VIF
+
+
+
+Link: https://www.youtube.com/watch?v=RiJYbxH77eQ&t=516s
