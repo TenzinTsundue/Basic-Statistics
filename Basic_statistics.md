@@ -1,15 +1,15 @@
 ## Basic Statistics for Business Analytics
 
-1. Mean
-2. Median
-3. Mode
-4. Skewness
+1. Mean / Arthmatic mean/ Average
+2. Median : Middle most value of the dataset
+3. Mode : Most frequent value in the dataset
+4. Skewness 
 5. Kurtosis
-6. Veriance
-7. Standard Deviation
-8. Converiance
-9. Correlation
-10. Regression
+6. Veriance : Measurement of the spread between numbers in datasets. The variance measure how far each no. is in the set from the mean. 
+7. Standard Deviation : Is a measure of the dispersion of a set of data from its mean.
+8. Converiance : Statistical measure of the deree to which the two variable moves together.
+9. Correlation : It is a measure of the strength of the linear relationship between two variable.
+10. Regression : Set of statistical processes for estimation the relationshp among variables
 11. Anova
 12. R Studio
 13. Adjusted R square
