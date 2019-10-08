@@ -10,12 +10,12 @@
 8. Converiance : Statistical measure of the deree to which the two variable moves together.
 9. Correlation : It is a measure of the strength of the linear relationship between two variable.
 10. Regression : Set of statistical processes for estimation the relationshp among variables
-11. Anova
-12. R Studio
+11. Anova : Analysis of variance
+12. R Square
 13. Adjusted R square
 14. F Test
 15. Information Value
-16.Woe
+16. WOE : Weight of Evidence
 17. VIF
 
 
